@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sarah-Elna
-- 👀 I’m interested in Biology
-- 🌱 I’m currently learning Python
-- 🌱 I also like litterature
+- 👀 I’m have a MSc in Bioinformatics and a BSc in Biology
+- 🌱 I have primarily written scripts in Python and R
 
 <!---
 Sarah-Elna/Sarah-Elna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
